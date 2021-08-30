@@ -1,0 +1,125 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2? family = Pacifico & display = swap');
+@import url('https://fonts.googleapis.com/css2? family = Amatic + SC & display = swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+#a{    
+    height: 400px;
+}
+
+#b{  
+  height: 400px;    
+}
+
+#c{   
+    height: 400px;
+}
+
+#c-ard{
+  text-align: center;
+}
+
+.card-img-overlay {
+   background-color: black;
+   color: white;
+   weight: 400px;
+   height: 200px;
+   
+ }
+ 
+ .card-img-overlay h5 {
+  font-weight: 900;
+  text-transform: uppercase;
+  font-family: 'Amatic SC', cursive;
+ } 
+
+ #imagem{
+  height: 500px; 
+}
+
+.title1{
+  font-family:  'Lobster', cursive;
+  color: #94b30b;
+}
+
+
+.title{
+   text-transform: uppercase;
+   font-family: 'Amatic SC', cursive;
+ }
+
+ .primeiro{
+    background-color: #222226;
+    color: cornsilk;
+    width: 1300px;
+    height: 200px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 5px #030c41;
+ }
+ 
+ .segundo{
+   background-color: #373740;
+   color: cornsilk;
+   width: 1300px;
+   height: 200px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 5px #030c41;
+  }
+ 
+  .terceiro{
+   background-color: #595856;
+   color: cornsilk;
+   width: 1300px;
+   height: 200px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 5px #030c41;
+  }
+ 
+  .quarto{
+   background-color: #616160;
+   color: cornsilk;
+   width: 1300px;
+   height: 200px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 5px #030c41;
+  }
+ 
+  .quinto{
+   background-color: #a09e9e;
+   width: 1300px;
+   height: 300px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 5px 5px 5px #030c41; 
+
+   color: rgb(0, 0, 0);
+  }
+
+ .card-body{
+ background-color: #F2B749;
+ }
+
+ 
+.escopo {
+  background-color: rgb(0, 0, 0);
+  width: 1400px;
+  height: 2000px;
+  padding: 10px;
+  margin: auto;
+  box-shadow: 5px 5px 5px #030c41
+
+ }
+
+ .escopo1 {
+  background-color: rgb(0, 0, 0);
+  width: 1400px;
+  height: 1600px;
+  padding: 10px;
+  margin: auto;
+  box-shadow: 5px 5px 5px #030c41
+
+ }
